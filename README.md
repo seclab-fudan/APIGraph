@@ -1,10 +1,10 @@
 # APIGraph
 This repo hosts the source code and dataset of *APIGraph*.
-For more details about of CCS 2020 paper, please see [APIGraph-website](https://xhzhang.github.io/APIGraph/).
+For more details about our CCS 2020 paper, please see [APIGraph-website](https://xhzhang.github.io/APIGraph/).
 
 
 ## Source Code
-The source code are located in the *src* directory, see the [src/README.md](./src/README.md)
+The source code are located in the [src](./src) directory.
 
 
 ## Dataset
