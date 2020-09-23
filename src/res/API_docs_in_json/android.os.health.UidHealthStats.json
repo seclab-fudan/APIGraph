@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.os.health.UidHealthStats", "ClassDesc": "Keys for @B_android#os#health#HealthStats_E@ returned from @B_android#os#health#SystemHealthManager#takeUidSnapshot_E@, @B_android#os#health#SystemHealthManager#takeMyUidSnapshot_E@, and @B_android#os#health#SystemHealthManager#takeUidSnapshots_E@."}

@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.service.autofill.Validator", "ClassDesc": "Class used to define whether a condition is satisfied. Typically used to avoid displaying the save UI when the user input is invalid."}

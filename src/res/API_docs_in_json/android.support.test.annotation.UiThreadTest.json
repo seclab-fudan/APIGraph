@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.test.annotation.UiThreadTest", "ClassDesc": "Methods annotated with this annotation will be executed on the application's UI thread (or main thread). This annotation will only take effect for @B_org#junit#Test_E@, @B_org#junit#Before_E@ or @B_org#junit#After_E@ methods."}

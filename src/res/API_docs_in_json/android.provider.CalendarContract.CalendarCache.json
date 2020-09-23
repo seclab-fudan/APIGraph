@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.CalendarContract.CalendarCache", "ClassDesc": "CalendarCache stores some settings for calendar including the current time zone for the instances. These settings are stored using a key/value scheme. A @B_android#provider#CalendarContract#CalendarCacheColumns#KEY_E@ must be specified when updating these values."}

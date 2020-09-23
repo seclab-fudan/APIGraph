@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": ["java.lang.Object", "@B_android#support#v17#leanback#widget#Action_E@", "@B_android#support#v17#leanback#widget#PlaybackControlsRow#MultiAction_E@"], "ClassName": "android.support.v17.leanback.widget.PlaybackControlsRow.ClosedCaptioningAction", "ClassDesc": "An action for displaying a CC (Closed Captioning) icon."}

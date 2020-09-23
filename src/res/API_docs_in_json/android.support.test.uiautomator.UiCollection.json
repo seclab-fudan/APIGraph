@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": ["https:##developer#android#com@B_java#lang#Object_E@", "@B_android#support#test#uiautomator#UiObject_E@"], "ClassName": "android.support.test.uiautomator.UiCollection", "ClassDesc": "Used to enumerate a container's UI elements for the purpose of counting, or targeting a sub elements by a child's text or description."}

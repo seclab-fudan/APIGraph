@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "com.google.android.gms.plus.model.people.Person.OrderBy", "ClassDesc": "Constants to declare the order to return people in. These constants are used with the @B_com#google#android#gms#plus#PlusClient#loadPeople_E@ method."}

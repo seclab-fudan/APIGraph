@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.hardware.SensorAdditionalInfo", "ClassDesc": "This class represents a @B_android#hardware#Sensor_E@ additional information frame, which is reported through listener callback @B_android#hardware#SensorEventCallback#onSensorAdditionalInfo_E@."}

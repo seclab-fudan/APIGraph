@@ -1,0 +1,1 @@
+{"Functions": {"end()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "Invoked at the end of an element.", "history": "Added in API level 1", "FullName": "public abstract void end ()"}}, "Inheritance": [], "ClassName": "android.sax.EndElementListener", "ClassDesc": "Listens for the end of elements."}

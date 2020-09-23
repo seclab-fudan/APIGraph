@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "javax.xml.transform.OutputKeys", "ClassDesc": "Provides string constants that can be used to set output properties for a Transformer, or to retrieve output properties from a Transformer or Templates object. All the fields in this class are read-only."}

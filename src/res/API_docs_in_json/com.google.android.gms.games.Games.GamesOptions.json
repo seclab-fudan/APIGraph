@@ -1,0 +1,1 @@
+{"Functions": {"builder()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "", "FullName": "public static Games.GamesOptions.Builder builder ()"}}, "Inheritance": ["java.lang.Object"], "ClassName": "com.google.android.gms.games.Games.GamesOptions", "ClassDesc": "API configuration parameters for Games."}

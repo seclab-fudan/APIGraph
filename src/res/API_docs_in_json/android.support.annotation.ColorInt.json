@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.annotation.ColorInt", "ClassDesc": "Denotes that the annotated element represents a packed color int, AARRGGBB. If applied to an int array, every element in the array represents a color integer. Example:"}

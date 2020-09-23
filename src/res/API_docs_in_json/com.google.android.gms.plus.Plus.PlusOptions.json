@@ -1,0 +1,1 @@
+{"Functions": {"builder()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "", "FullName": "public static Plus.PlusOptions.Builder builder ()"}}, "Inheritance": ["java.lang.Object"], "ClassName": "com.google.android.gms.plus.Plus.PlusOptions", "ClassDesc": "API configuration parameters for Google+."}

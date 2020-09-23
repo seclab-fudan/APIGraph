@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "java.util.concurrent.ScheduledFuture<V>", "ClassDesc": "A delayed result-bearing action that can be cancelled. Usually a scheduled future is the result of scheduling a task with a @B_java#util#concurrent#ScheduledExecutorService_E@."}

@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v7.preference.PreferenceManager.OnDisplayPreferenceDialogListener", "ClassDesc": "Interface definition for a class that will be called when a @B_android#support#v7#preference#Preference_E@ requests to display a dialog."}

@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.test.filters.SdkSuppress", "ClassDesc": "Indicates that a specific test or class requires a minimum or maximum API Level to execute. Test(s) will be skipped when executed on android platforms less/more than specified level (inclusive)."}

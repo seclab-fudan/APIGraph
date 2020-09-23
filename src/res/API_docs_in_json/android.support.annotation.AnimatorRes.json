@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.annotation.AnimatorRes", "ClassDesc": "Denotes that an integer parameter, field or method return value is expected to be an animator resource reference (e.g. android.R.animator.fade_in)."}

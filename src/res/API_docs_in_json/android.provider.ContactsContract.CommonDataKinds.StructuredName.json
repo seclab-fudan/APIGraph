@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.ContactsContract.CommonDataKinds.StructuredName", "ClassDesc": "A data kind representing the contact's proper name. You can use all columns defined for @B_android#provider#ContactsContract#Data_E@ as well as the following aliases."}

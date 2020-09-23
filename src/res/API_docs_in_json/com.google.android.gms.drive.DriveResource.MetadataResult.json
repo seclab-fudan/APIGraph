@@ -1,0 +1,1 @@
+{"Functions": {"getMetadata()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "", "FullName": "public abstract Metadata getMetadata ()"}}, "Inheritance": [], "ClassName": "com.google.android.gms.drive.DriveResource.MetadataResult", "ClassDesc": "Result that is returned in response to metadata requests."}

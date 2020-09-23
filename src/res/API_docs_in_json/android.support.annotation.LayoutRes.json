@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.annotation.LayoutRes", "ClassDesc": "Denotes that an integer parameter, field or method return value is expected to be a layout resource reference (e.g. android.R.layout.list_content)."}

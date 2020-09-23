@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "java.util.FormattableFlags", "ClassDesc": "FomattableFlags are passed to the @B_java#util#Formattable#formatTo_E@ method and modify the output format for @B_java#util#Formattable_E@ are responsible for interpreting and validating any flags."}

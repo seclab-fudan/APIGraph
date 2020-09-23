@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.CalendarContract.SyncColumns", "ClassDesc": "Columns for Sync information used by Calendars and Events tables. These have specific uses which are expected to be consistent by the app and sync adapter."}

@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v4.app.NotificationCompat.Extender", "ClassDesc": "Extender interface for use with @B_android#support#v4#app#NotificationCompat#Builder#extend_E@. Extenders may be used to add metadata or change options on a notification builder."}

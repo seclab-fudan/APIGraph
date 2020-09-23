@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v7.app.AppCompatCallback", "ClassDesc": "Implemented this in order for AppCompat to be able to callback in certain situations. This should be provided to @B_android#support#v7#app#AppCompatDelegate#create_E@."}

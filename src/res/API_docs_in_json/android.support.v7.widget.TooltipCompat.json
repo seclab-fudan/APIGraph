@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": ["java.lang.Object"], "ClassName": "android.support.v7.widget.TooltipCompat", "ClassDesc": "Helper class used to emulate the behavior of https:##developer#android#com@B_android#view#View#setTooltipText_E@ prior to API level 26."}

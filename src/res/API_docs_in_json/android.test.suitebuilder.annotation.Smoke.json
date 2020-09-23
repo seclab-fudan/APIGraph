@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.test.suitebuilder.annotation.Smoke", "ClassDesc": "New tests should be written using the Marks a test that should run as part of the smoke tests. The android.test.suitebuilder.SmokeTestSuiteBuilder will run all tests with this annotation."}

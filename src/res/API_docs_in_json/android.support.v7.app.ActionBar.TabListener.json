@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v7.app.ActionBar.TabListener", "ClassDesc": "Action bar navigation modes are deprecated and not supported by inline toolbar action bars. Consider using other Callback interface invoked when a tab is focused, unfocused, added, or removed."}

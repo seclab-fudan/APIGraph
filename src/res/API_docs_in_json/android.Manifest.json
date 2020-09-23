@@ -1,0 +1,1 @@
+{"Functions": {"Manifest()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": ["@B_android#Manifest#permission_E@", "@B_android#Manifest#permission_group_E@"], "Description": "public final class Manifest@B_java#lang#Object_E@", "history": "", "FullName": "public Manifest ()"}}, "Inheritance": [], "ClassName": "android.Manifest", "ClassDesc": ""}

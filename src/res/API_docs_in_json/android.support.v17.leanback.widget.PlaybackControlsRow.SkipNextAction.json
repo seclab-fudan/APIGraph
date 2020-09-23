@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": ["java.lang.Object", "@B_android#support#v17#leanback#widget#Action_E@"], "ClassName": "android.support.v17.leanback.widget.PlaybackControlsRow.SkipNextAction", "ClassDesc": "An action displaying an icon for skip next."}

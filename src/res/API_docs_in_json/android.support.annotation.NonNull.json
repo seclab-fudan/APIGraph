@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.annotation.NonNull", "ClassDesc": "Denotes that a parameter, field or method return value can never be null. This is a marker annotation and it has no specific attributes."}

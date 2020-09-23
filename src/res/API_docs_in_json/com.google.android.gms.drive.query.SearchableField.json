@@ -1,0 +1,1 @@
+{"Functions": {"SearchableField()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "", "FullName": "public SearchableField ()"}}, "Inheritance": ["java.lang.Object"], "ClassName": "com.google.android.gms.drive.query.SearchableField", "ClassDesc": "An attribute of the file that is to be searched."}

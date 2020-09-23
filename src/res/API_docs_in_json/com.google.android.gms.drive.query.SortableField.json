@@ -1,0 +1,1 @@
+{"Functions": {"SortableField()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "", "FullName": "public SortableField ()"}}, "Inheritance": ["java.lang.Object"], "ClassName": "com.google.android.gms.drive.query.SortableField", "ClassDesc": "An attribute of the file that a query can be sorted upon."}

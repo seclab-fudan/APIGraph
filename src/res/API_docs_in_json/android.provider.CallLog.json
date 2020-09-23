@@ -1,0 +1,1 @@
+{"Functions": {"CallLog()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "added in API level 1", "FullName": "public CallLog ()"}}, "Inheritance": [], "ClassName": "android.provider.CallLog", "ClassDesc": "The CallLog provider contains information about placed and received calls."}

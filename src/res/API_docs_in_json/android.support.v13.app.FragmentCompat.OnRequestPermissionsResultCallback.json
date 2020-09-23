@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v13.app.FragmentCompat.OnRequestPermissionsResultCallback", "ClassDesc": "Use @B_android#support#v4#app#Fragment_E@ instead of the framework https:##developer#android#com@B_android#app#Fragment_E@. This interface is the contract for receiving the results for permission requests."}

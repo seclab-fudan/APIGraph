@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.ContactsContract.DeletedContacts", "ClassDesc": "Constants for the deleted contact table. This table holds a log of deleted contacts. Log older than @B_android#provider#ContactsContract#DeletedContacts#DAYS_KEPT_MILLISECONDS_E@ may be deleted."}

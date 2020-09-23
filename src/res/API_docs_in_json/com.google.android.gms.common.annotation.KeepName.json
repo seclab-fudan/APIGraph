@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "com.google.android.gms.common.annotation.KeepName", "ClassDesc": "Indicates that the name of this object (class, method, etc) should be retained when proguarding."}

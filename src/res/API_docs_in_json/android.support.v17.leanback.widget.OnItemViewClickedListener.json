@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v17.leanback.widget.OnItemViewClickedListener", "ClassDesc": "Interface for receiving notification when a item view holder is clicked. This interface expects row object to be sub class of @B_android#support#v17#leanback#widget#Row_E@."}

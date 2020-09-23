@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.view.ContextMenu.ContextMenuInfo", "ClassDesc": "Additional information regarding the creation of the context menu. For example, @B_android#widget#AdapterView_E@s use this to pass the exact item position within the adapter that initiated the context menu."}

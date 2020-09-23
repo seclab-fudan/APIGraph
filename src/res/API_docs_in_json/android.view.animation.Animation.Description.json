@@ -1,0 +1,1 @@
+{"Functions": {"Animation.Description()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "added in API level 1", "FullName": "protected Animation.Description ()"}}, "Inheritance": [], "ClassName": "android.view.animation.Animation.Description", "ClassDesc": "Utility class to parse a string description of a size."}

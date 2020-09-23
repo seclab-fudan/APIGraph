@@ -1,0 +1,1 @@
+{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v4.widget.SwipeRefreshLayout.OnChildScrollUpCallback", "ClassDesc": "Classes that wish to override @B_android#support#v4#widget#SwipeRefreshLayout#canChildScrollUp_E@ method behavior should implement this interface."}
