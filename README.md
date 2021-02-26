@@ -17,6 +17,9 @@ The source code are located in the [src](./src) directory, including:
 The dataset is located in the *Dataset* directory.
 This dataset contains 322,594 Android apps, including 32,089 malicious and 290,505 benign samples spanning 7 years, i.e. 2012 - 2018. 
 The benign samples are all from Google Play, and downloaded from [AndroZoo](https://androzoo.uni.lu/).
+* You can use the csv files from `androzoo_files/` and [az](https://github.com/ArtemKushnerov/az) to download from AndroZoo.
+* e.g., `az -i androzoo_files/2012_benign.csv -o /some/output/path/` 
+
 The malware samples are downloaded from three sources: [VirusShare](https://virusshare.com), [VirusTotal Academic Samples](https://www.virustotal.com), and [AMD](http://amd.arguslab.org/sharing) dataset. 
 The hashes are organized according to their years and maliciousness in txt format. 
 
