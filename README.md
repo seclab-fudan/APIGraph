@@ -3,6 +3,10 @@ This repo hosts the source code and dataset of *APIGraph*.
 For more details about our CCS 2020 paper, please see [APIGraph-website](https://xhzhang.github.io/APIGraph/).
 
 
+**Update**: 
+The idea of APIGraph actually not limited to Android malware detection, it can be extended to other tasks on other platforms, e.g. Windows malware detection/classification. 
+As our effort to show the generality of APIGraph, we now adapt APIGraph onto Windows malware detection tasks, refer to the *windows* branch.
+
 ## Source Code
 The source code are located in the [src](./src) directory, including: 
 
