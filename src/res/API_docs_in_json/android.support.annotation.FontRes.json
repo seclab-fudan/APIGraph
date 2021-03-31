@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.annotation.FontRes", "ClassDesc": "Denotes that an integer parameter, field or method return value is expected to be a font resource reference (e.g. R.font.myfont)."}

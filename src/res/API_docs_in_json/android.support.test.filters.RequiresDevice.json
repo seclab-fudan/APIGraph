@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.test.filters.RequiresDevice", "ClassDesc": "Indicates that a specific test should not be run on emulator. It will be executed only if the test is running on the physical android device."}

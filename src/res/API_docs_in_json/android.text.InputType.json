@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.text.InputType", "ClassDesc": "Bit definitions for an integer defining the basic content type of text held in an @B_android#text#Editable_E@ object. Supported classes may be combined with variations and flags to indicate desired behaviors."}

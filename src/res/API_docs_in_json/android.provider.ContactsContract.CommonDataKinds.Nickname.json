@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.ContactsContract.CommonDataKinds.Nickname", "ClassDesc": "A data kind representing the contact's nickname. For example, for Bob Parr (\"Mr. Incredible\"): You can use all columns defined for @B_android#provider#ContactsContract#Data_E@ as well as the following aliases."}

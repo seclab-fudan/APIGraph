@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": ["java.lang.Object"], "ClassName": "com.google.android.gms.cast.CastStatusCodes", "ClassDesc": "Status codes for the Cast APIs. Status codes for the @B_com#google#android#gms#cast#Cast_E@ API that are returned in various callbacks as error parameter values."}

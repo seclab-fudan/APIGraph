@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v14.preference.PreferenceFragment.OnPreferenceStartFragmentCallback", "ClassDesc": "Interface that PreferenceFragment's containing activity should implement to be able to process preference items that wish to switch to a specified fragment."}

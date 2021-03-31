@@ -1,1 +1,0 @@
-{"Functions": {"run()": {"Returns": [["T", "no returns description in source"]], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "Added in API level 1", "FullName": "public abstract T run ()"}}, "Inheritance": [], "ClassName": "java.security.PrivilegedAction<T>", "ClassDesc": "Legacy security code; do not use."}

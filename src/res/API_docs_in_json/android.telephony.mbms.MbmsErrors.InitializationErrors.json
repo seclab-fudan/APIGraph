@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.telephony.mbms.MbmsErrors.InitializationErrors", "ClassDesc": "Indicates errors that may be generated during initialization by the middleware. They are applicable to both streaming and file-download use-cases."}

@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": ["java.lang.Object", "@B_com#google#android#gms#common#api#CommonStatusCodes_E@"], "ClassName": "com.google.android.gms.location.LocationSettingsStatusCodes", "ClassDesc": "Location settings specific status codes, for use in @B_com#google#android#gms#common#api#Status#getStatusCode_E@"}

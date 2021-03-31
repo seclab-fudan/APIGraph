@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.ContactsContract.ContactsColumns", "ClassDesc": "Columns of @B_android#provider#ContactsContract#Contacts_E@ that refer to intrinsic properties of the contact, as opposed to the user-specified options found in @B_android#provider#ContactsContract#ContactOptionsColumns_E@."}

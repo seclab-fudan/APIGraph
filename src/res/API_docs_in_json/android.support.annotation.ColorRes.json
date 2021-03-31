@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.annotation.ColorRes", "ClassDesc": "Denotes that an integer parameter, field or method return value is expected to be a color resource reference (e.g. android.R.color.black)."}

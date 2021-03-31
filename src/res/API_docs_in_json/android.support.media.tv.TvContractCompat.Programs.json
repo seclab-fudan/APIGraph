@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": ["java.lang.Object"], "ClassName": "android.support.media.tv.TvContractCompat.Programs", "ClassDesc": "Column definitions for the TV programs table. By default, the query results will be sorted by @B_android#support#media#tv#TvContractCompat#Programs#COLUMN_START_TIME_UTC_MILLIS_E@ in ascending order."}

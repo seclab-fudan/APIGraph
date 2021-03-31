@@ -1,1 +1,0 @@
-{"Functions": {"TelephonyScanManager()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "", "history": "Added in API level 28", "FullName": "public TelephonyScanManager ()"}}, "Inheritance": [], "ClassName": "android.telephony.TelephonyScanManager", "ClassDesc": "Manages the radio access network scan requests and callbacks."}

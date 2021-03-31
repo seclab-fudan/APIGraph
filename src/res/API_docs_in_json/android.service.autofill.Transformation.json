@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.service.autofill.Transformation", "ClassDesc": "Helper class used to change a child view of a @B_android#widget#RemoteViews_E@ at runtime, using the values of fields contained in the screen. Typically used by @B_android#service#autofill#CustomDescription_E@ to provide a customized autofill save UI."}

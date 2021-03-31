@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": ["java.lang.Object", "java.lang.Throwable", "java.lang.Exception", "java.lang.RuntimeException"], "ClassName": "android.support.v4.app.Fragment.InstantiationException", "ClassDesc": "Thrown by @B_android#support#v4#app#Fragment#instantiate_E@ when there is an instantiation failure."}

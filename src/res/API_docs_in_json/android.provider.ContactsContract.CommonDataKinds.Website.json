@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.ContactsContract.CommonDataKinds.Website", "ClassDesc": "A data kind representing a website related to the contact. You can use all columns defined for @B_android#provider#ContactsContract#Data_E@ as well as the following aliases."}

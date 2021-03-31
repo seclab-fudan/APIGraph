@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.test.espresso.web.model.JSONAble.DeJSONFactory", "ClassDesc": "Allows implementors to replace a JSONObject (representated as a map) with a more applicable object."}

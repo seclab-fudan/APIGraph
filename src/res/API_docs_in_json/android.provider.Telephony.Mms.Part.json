@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.Telephony.Mms.Part", "ClassDesc": "Contains message parts. To avoid issues where applications might cache a part ID, the ID of a deleted part must not be reused to point at a new part."}

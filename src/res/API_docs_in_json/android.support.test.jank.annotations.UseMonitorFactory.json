@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.test.jank.annotations.UseMonitorFactory", "ClassDesc": "Class annotation used to override the default @B_android#support#test#jank#IMonitorFactory_E@ implementation. The factory should have a public constructor that takes an #_E@ instance as the sole argument."}

@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v7.widget.RecyclerView.RecyclerListener", "ClassDesc": "A RecyclerListener can be set on a RecyclerView to receive messages whenever a view is recycled."}

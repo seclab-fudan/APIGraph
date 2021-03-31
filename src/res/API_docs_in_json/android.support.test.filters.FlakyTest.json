@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.test.filters.FlakyTest", "ClassDesc": "Designates a test as being flaky (non-deterministic). Can then be used to filter tests on execution using -e annotation or -e notAnnotation as desired."}

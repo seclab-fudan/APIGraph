@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.animation.DynamicAnimation.OnAnimationUpdateListener", "ClassDesc": "Implementors of this interface can add themselves as update listeners to an DynamicAnimation instance to receive callbacks on every animation frame, after the current frame's values have been calculated for that DynamicAnimation."}

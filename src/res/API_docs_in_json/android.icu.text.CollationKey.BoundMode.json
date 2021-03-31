@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.icu.text.CollationKey.BoundMode", "ClassDesc": "Options that used in the API CollationKey.getBound() for getting a CollationKey based on the bound mode requested."}

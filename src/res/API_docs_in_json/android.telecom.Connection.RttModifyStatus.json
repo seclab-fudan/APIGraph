@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.telecom.Connection.RttModifyStatus", "ClassDesc": "Provides constants to represent the results of responses to session modify requests sent via @B_android#telecom#Call#sendRttRequest_E@"}

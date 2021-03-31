@@ -1,1 +1,0 @@
-{"Functions": {"EGLDisplay()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "public abstract class EGLDisplay@B_java#lang#Object_E@", "history": "", "FullName": "public EGLDisplay ()"}}, "Inheritance": [], "ClassName": "javax.microedition.khronos.egl.EGLDisplay", "ClassDesc": ""}

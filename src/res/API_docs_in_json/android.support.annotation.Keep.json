@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.annotation.Keep", "ClassDesc": "Denotes that the annotated element should not be removed when the code is minified at build time. This is typically used on methods and classes that are accessed only via reflection so a compiler may think that the code is unused. Example:"}

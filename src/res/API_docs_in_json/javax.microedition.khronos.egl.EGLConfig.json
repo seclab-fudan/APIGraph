@@ -1,1 +1,0 @@
-{"Functions": {"EGLConfig()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "public abstract class EGLConfig@B_java#lang#Object_E@", "history": "", "FullName": "public EGLConfig ()"}}, "Inheritance": [], "ClassName": "javax.microedition.khronos.egl.EGLConfig", "ClassDesc": ""}

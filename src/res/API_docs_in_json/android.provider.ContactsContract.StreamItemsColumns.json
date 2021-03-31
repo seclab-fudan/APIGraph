@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.ContactsContract.StreamItemsColumns", "ClassDesc": "- Do not use. This will not be supported in the future. In the future, cursors returned from related queries will be empty. Columns in the StreamItems table."}

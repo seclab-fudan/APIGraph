@@ -1,1 +1,0 @@
-{"Functions": {"EGLSurface()": {"Returns": [], "Parameters": [], "Throws": [], "SeeAlso": [], "Permissions": [], "Description": "public abstract class EGLSurface@B_java#lang#Object_E@", "history": "", "FullName": "public EGLSurface ()"}}, "Inheritance": [], "ClassName": "javax.microedition.khronos.egl.EGLSurface", "ClassDesc": ""}

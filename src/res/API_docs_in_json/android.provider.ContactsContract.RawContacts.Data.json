@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.provider.ContactsContract.RawContacts.Data", "ClassDesc": "A sub-directory of a single raw contact that contains all of its @B_android#provider#ContactsContract#Data_E@ rows. To access this directory append @B_android#provider#ContactsContract#RawContacts#Data#CONTENT_DIRECTORY_E@ to the raw contact URI."}

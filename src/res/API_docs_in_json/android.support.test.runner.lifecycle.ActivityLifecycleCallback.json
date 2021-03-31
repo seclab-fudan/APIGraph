@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.test.runner.lifecycle.ActivityLifecycleCallback", "ClassDesc": "Callback for monitoring activity lifecycle events. These callbacks are invoked on the main thread, so any long operations or violating the strict mode policies should be avoided."}

@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "android.support.v7.preference.PreferenceFragmentCompat.OnPreferenceStartScreenCallback", "ClassDesc": "Interface that PreferenceFragment's containing activity should implement to be able to process preference items that wish to switch to a new screen of preferences."}

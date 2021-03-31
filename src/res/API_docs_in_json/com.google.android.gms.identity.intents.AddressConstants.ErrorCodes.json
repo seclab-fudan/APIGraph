@@ -1,1 +1,0 @@
-{"Functions": {}, "Inheritance": [], "ClassName": "com.google.android.gms.identity.intents.AddressConstants.ErrorCodes", "ClassDesc": "Error codes that could be returned in the data Intent returned to your Activity via its onActivityResult method. These are retrieved using @B_com#google#android#gms#identity#intents#AddressConstants#Extras#EXTRA_ERROR_CODE_E@."}
