@@ -7,6 +7,11 @@ For more details about our CCS 2020 paper, please see [APIGraph-website](https:/
 The idea of APIGraph actually not limited to Android malware detection, it can be extended to other tasks on other platforms, e.g. Windows malware detection/classification. 
 As our effort to show the generality of APIGraph, we now adapt APIGraph onto Windows malware detection tasks, refer to the *windows* branch.
 
+**Update2**:
+The top30 families malware in Table 10 in the paper is uploaded, in the format of (hash,time,family).
+Note the family labels were obtained using Euphony tool in 2020, which may have changed by present. 
+All the malware were also downloaded from the three open repositories.
+
 ## Source Code
 The source code are located in the [src](./src) directory, including: 
 
