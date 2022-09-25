@@ -43,11 +43,18 @@ def clusterEmbedding():
         idx += 1
     print(len(cluster_method))
     method_cluster_mapping = {}
+    cluster_api_mapping = {}
     for key in cluster_method:
         for method in cluster_method[key]:
             method_cluster_mapping[method] = key
+            if cluster_api_mapping.get(key, None) == None:
+                cluster_api_mapping[key] = method
+
     with open('res/method_cluster_mapping_%d.pkl' % (cluster_k), 'wb') as f:
         pickle.dump(method_cluster_mapping, f, protocol = 2)
+
+    with open('res/cluster_api_mapping_%d.pkl' % cluster_k, 'wb') as f:
+        pickle.dump(cluster_api_mapping, f, protocol = 2)
 
 if __name__ == "__main__":
     clusterEmbedding()
